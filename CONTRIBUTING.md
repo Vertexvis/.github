@@ -2,7 +2,7 @@
 
 ## Did you find a bug?
 
-- **Do not open up a GitHub issue for security vulnerabilities in Vertex**. Instead, refer to [SECURITY.md](./SECURITY.md).
+- **Do not open up a GitHub issue for security vulnerabilities in Vertex**. Instead, refer to our [security policy](https://github.com/Vertexvis/vertex-community/security/policy).
 - **Ensure the bug was not already reported** by searching GitHub Issues.
 - If you're unable to find an open issue addressing the problem, open a new one using the bug report template.
 
