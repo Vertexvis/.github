@@ -1,11 +1,14 @@
 ## Summary
 <!-- Implementation and architectural changes introduced. -->
 
-## Test plan
-<!-- How the changes should be tested. -->
+## Test Plan
+<!-- How to test changes. -->
 
-## Possible regressions
-<!-- Features that may be impacted. -->
+## Release Notes
+<!-- Provided to customers. Explain new features, bug fixes, and deprecating or breaking changes. -->
+
+## Possible Regressions
+<!-- Possible impacts to other features. -->
 
 ## Dependencies
 <!-- Links to dependent PRs or tickets. -->
